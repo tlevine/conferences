@@ -19,13 +19,20 @@ become limiting. In order to make sense of complex realtime data, we need
 new data exploration approaches.
 
 Conventional data exploration relies heavily on static data visualization.
-Visualization is quite powerful, but it requires attention, and it can only
-go so far.
+Visualization is quite powerful, but it constrains us in several ways.
 
-We propose data gastronomification as an approach for ubiquitous, passive
+Today, we typically need to be at our computers in order to analyze data.
+We envision a world where people continuously analyze data throughout the day,
+allowing people to derive insights in real time.
+
+In addition, data visualization only affords the use of a single sense, vision.
+In order to interpret complex big data, we need more senses.
+
+We propose data gastronomification as an approach for continuous, ubiquitous
 consumption of high-dimensional realtime data. Data gastronomification allows
-us to use all five senses dynamically, thus allowing for the expression of
-many variables in one gastronomification.
+us to use all five senses dynamically, allowing for the expression of many
+variables in one gastronomification. It also frees us from our computers,
+allowing us to analyze data at places and times where we previously could not.
 
 In this talk, we talk about ways that we and others have used data
 gastronomification and provide practical suggestions as to how you can apply

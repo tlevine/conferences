@@ -12,7 +12,6 @@ and data gastronomification. We also present our open-source
 tools for building and scaling systems for realtime data
 analysis with data music videos and data gastronomification.
 
-We'll discuss the theory behind these two data analysis
-methods, and then we'll present case studies on how our tools
-are used in in marketing and data journalism to enable
-business analytics, instill a data-driven culture and 
+We'll discuss the theory behind these two data analysis methods,
+and then we'll present case studies on how our tools are used to
+enable business analytics and instill a data-driven culture.

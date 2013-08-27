@@ -14,10 +14,10 @@ data. The talk will focus on these insights and their
 practical relevance to people who use open data or who manage
 disparate data within a large organization.
 
-We'll also touch on some of the technology behind our analysis
-system, including the management of varied metadata formats,
-wrangling of a wide variety of datasets, and algorithmic
-integration of datasets with poor metadata.
+We'll also touch how our data analysis architecture manages
+varied metadata formats, wrangles a wide variety of datasets,
+discovers dataset taxonomies, and algorithmicly integrates
+datasets with poor metadata.
 
 We'll focus on some technology-based approaches for discovering
 open data that pertains to your business. We'll also discuss

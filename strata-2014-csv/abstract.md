@@ -13,9 +13,6 @@ tools for building and scaling systems for realtime data
 analysis with data music videos and data gastronomification.
 
 We'll discuss the theory behind these two data analysis
-methods, and then we'll present case studies on the use our
-tools in business analysis, investing and data journalism.
-Through these case studies, we'll discuss the business
-impact of the new approaches and some tips in building such
-systems, including optimizations for sparse data and
-time-series data.
+methods, and then we'll present case studies on how our tools
+are used in in marketing and data journalism to enable
+business analytics, instill a data-driven culture and 

@@ -10,16 +10,11 @@ we now have rich data on the publishing and use of open data.
 By conducting big data analyses about the relationships among
 50,000 open datasets from 60 municipalities and organizations,
 we have elucidated trends in the publishing and use of open
-data. The talk will focus on these insights and their
-practical relevance to people who use open data or who manage
-disparate data within a large organization.
+data. Based on these findings, we have developed open-source
+tools to automate the discovery of open data that are relevant
+to your business.
 
-We'll also touch how our data analysis architecture manages
-varied metadata formats, wrangles a wide variety of datasets,
-discovers dataset taxonomies, and algorithmicly integrates
-datasets with poor metadata.
-
-We'll focus on some technology-based approaches for discovering
-open data that pertains to your business. We'll also discuss
-some data quality best practices
-help enforce that these practices are followed.
+You should attend this talk if you use open data, you want to
+use open data, you manage an open data initiative, or you manage
+disparate proprietary data within a large organization. We'll 
+discuss our findings and our tools.

@@ -20,4 +20,4 @@ inconsistent/undocumented metadata formats, wrangles a wide
 variety of datasets, discovers dataset taxonomies, and
 algorithmically integrates datasets with poor metadata.
 
-Prerequisite: You should be somewhat familiar with web APIs, database schemas, and basic statistics. You won't need to know very much, but you might have trouble following if you have absolutely no understanding of these topics.
+Prerequisite: You should be somewhat familiar with web APIs, database schemas, and basic statistics. You won't need to know very much, but you might have trouble following if you haven't heard of these things before.
